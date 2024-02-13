@@ -104,7 +104,12 @@ body {
 .color22 {
   color: rgb(77, 160, 220);
 }
-#ac1{
+#ac1 {
   color: rgb(77, 160, 220);
   font-size: 1.6rem;
+}
+
+#input1 {
+  box-shadow: none;
+  background-color: #e0effc;
 }
