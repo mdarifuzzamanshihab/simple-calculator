@@ -61,7 +61,8 @@ body {
 
 #iconcolor {
   color: rgb(77, 160, 220);
-  font-size: 1rem;
+  font-size: 1.3rem;
+  margin-top: 5px;
 }
 
 #divide {
@@ -75,11 +76,10 @@ body {
 }
 
 .normalbtn {
-  color: rgb(255, 255, 255);
+  color: #2b3440;
 }
 
-
-#zero{
+#zero {
   width: 140px;
   background: linear-gradient(
     131.52deg,
@@ -89,13 +89,22 @@ body {
   border-radius: 16px;
 }
 
-#plus2{
-  height:120px;
+#plus2 {
+  height: 120px;
   margin-bottom: 0;
 }
 
-#soman{
+#soman {
   bottom: 29px;
   height: 91px;
   margin-top: 0;
+  background-color: #19acff;
+}
+
+.color22 {
+  color: rgb(77, 160, 220);
+}
+#ac1{
+  color: rgb(77, 160, 220);
+  font-size: 1.6rem;
 }
