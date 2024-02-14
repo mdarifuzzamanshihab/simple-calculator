@@ -79,6 +79,10 @@ body {
   color: #2b3440;
 }
 
+p {
+  word-break: break-all;
+  white-space: normal;
+}
 #zero {
   width: 140px;
   background: linear-gradient(
